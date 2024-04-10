@@ -1,6 +1,6 @@
-# React + Vite
-To run the site use npm run build in the terminal
 Airbnb Website
+ React + Vite
+To run the site use npm run build in the terminal
 
 Welcome to our Airbnb Website! This project is developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack, providing a seamless and modern platform for users to search, explore, and book hotels.
 
